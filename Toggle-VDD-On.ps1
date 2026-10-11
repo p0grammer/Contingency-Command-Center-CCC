@@ -1,0 +1,1 @@
+Get-PnpDevice | Where-Object { $_.FriendlyName -like "*Virtual Display*" } | Enable-PnpDevice -Confirm:$false

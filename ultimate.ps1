@@ -1,0 +1,1 @@
+powercfg /setactive c5f52180-c09a-4720-9392-7b0cdc7e4058
