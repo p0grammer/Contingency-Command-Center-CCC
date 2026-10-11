@@ -19,6 +19,8 @@ A lightweight system recovery utility for Windows power users, audio engineers, 
 .\CCC.ps1
 ```
 
+alt: extract CCC(full-package) run the CCC.exe
+
 Follow the on-screen prompts. The Panic Button routine handles the most common hangs automatically; advanced options are available for manual targeting.
 
 ## Tech
