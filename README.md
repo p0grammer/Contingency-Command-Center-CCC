@@ -1,6 +1,6 @@
 ﻿# Contingency Command Center
 
-A lightweight system recovery utility for Windows power users, audio engineers, and gamers. When a critical sub-system hangs mid-session — audio driver freeze, GPU hiccup, runaway process — CCC Lite gives you a single "Panic Button" to resolve it without rebooting.
+A lightweight system recovery utility for Windows power users, audio engineers, and gamers. When a critical sub-system hangs mid-session — audio driver freeze, GPU hiccup, runaway process — CCC gives you a single "Panic Button" to resolve it without rebooting.
 
 ## What it does
 
